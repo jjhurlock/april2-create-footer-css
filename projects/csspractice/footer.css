@@ -30,12 +30,10 @@ hr {border: 1px solid rgba(65, 63, 63, 0.64);}
 .outerWrap {
  height: 340px;
  background: rgb(84, 83, 81);
+ width: 1024px;
 }
 
-.innerWrap {
-	margin-right: 200px;
-	margin-left: 200px;
-}
+
 
 .column {
 	width: 330px;
@@ -58,6 +56,8 @@ hr {border: 1px solid rgba(65, 63, 63, 0.64);}
 	padding-bottom: 46px;
 	margin: 9px;
 }
+
+
 
 .leftCol{
 	width: 159px;

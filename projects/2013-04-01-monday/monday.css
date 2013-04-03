@@ -1,0 +1,114 @@
+
+h1, h2, h3 , h4, h5, h6 {
+	margin: 0;
+}
+
+a {
+	text-decoration: underline;
+	color: black;
+}
+
+
+.header {
+	background: rgb(0, 0, 0);
+	color: white;
+	text-align: left;
+	padding: 40px;
+}
+
+
+.container {
+	background: yellow;
+	color: rgb(100, 100, 100);
+	text-align: left;
+	padding: 20px;
+}
+
+.main {
+	color: rgb(100, 100, 100);
+	text-align: left;
+	float: left;
+	width: 460px;
+	padding: 20px;
+	margin: 5px;
+}
+
+.list
+{
+	text-align: left;
+}
+
+.sidebar {
+	color: rgb(50, 50, 50);
+	text-align: center;
+	border: 1px solid white;
+	float: right;
+	padding: 20px;
+	margin: 5px;
+	height: 320px;
+}
+.sidebar2 {
+	color: rgb(50, 50, 50);
+	text-align: center;
+	border: 1px solid white;
+	float: right;
+	padding: 20px;
+	margin: 5px;
+	height: 320px;
+}
+.sidebar3 {
+	color: rgb(50, 50, 50);
+	text-align: center;
+	border: 1px solid white;
+	float: right;
+	padding: 20px;
+	margin: 5px;
+	height: 320px;
+}
+
+.sidebar4 {
+	color: rgb(50, 50, 50);
+	text-align: center;
+	border: 1px solid white;
+	float: right;
+	padding: 20px;
+	margin: 5px;
+	height: 320px;
+}
+.sidebar5 {
+	color: rgb(50, 50, 50);
+	text-align: center;
+	border: 1px solid white;
+	float: right;
+	padding: 20px;
+	margin: 5px;
+	height: 320px;
+}
+.sidebar6 {
+	color: rgb(50, 50, 50);
+	text-align: center;
+	border: 1px solid white;
+	float: right;
+	padding: 20px;
+	margin: 5px;
+	height: 320px;
+}
+
+
+
+.footer {
+
+	background: rgba(50, 50, 50, 0.5);
+	color: white;
+	text-align: center;
+	clear: both;
+	padding: 40px;
+	margin-top: 40px;
+	
+}
+
+.footlink
+{
+	color: green;
+	text-decoration: underline;
+}

@@ -1,0 +1,124 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	color: rgb(253, 253, 253);
+}
+	
+h1 {
+	font-size: 18px;
+	text-shadow: 0px 1px 1px rgb(40, 40, 40);
+}
+
+h2 {
+	font-size: 13px;
+	font-family: font-family: Helvetica, Arial, sans-serif;
+	text-shadow: 0px 1px 1px rgb(40, 40, 40);
+	padding-top: 3px;
+	font-weight: lighter;
+}
+
+p {
+	font-size: 12px;
+	font-family: font-family: Helvetica, Arial, sans-serif;
+	text-shadow: 0px 1px 1px rgb(40, 40, 40);
+	letter-spacing: 1px;
+	margin-bottom: 20px;
+	font-weight: lighter;
+}
+
+hr {border: 1px solid rgba(65, 63, 63, 0.64);}
+
+.outerWrap {
+ height: 340px;
+ background: rgb(84, 83, 81);
+}
+
+.innerWrap {
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+.column {
+	width: 330px;
+	height: 340px;
+	float: left;
+	padding-top: 10px;
+	padding-left: 7px;
+	padding-bottom: 46px;
+	padding-right: 14px;
+	margin: 9px;
+}
+
+.column2 {
+	width: 247px;
+	height: 340px;
+	float: left;
+	padding-top: 10px;
+	padding-left: 42px;
+	padding-right: 21px;
+	padding-bottom: 46px;
+	margin: 9px;
+}
+
+.leftCol{
+	width: 159px;
+	padding: 0px;
+	float: left;
+}
+
+.rgtCol{
+	width: 159px;
+	padding: 0px;
+	float: right;
+}
+
+.button {
+	float: left;
+	width: 128px;
+	margin-top: 3px;
+	margin-bottom: 5px;
+	color: white;
+	font-size: 13px;
+	text-align: center;
+	border: 1px solid rgb(49, 49, 49);
+	background: rgb(105, 105, 105);
+	font-family: Helvetica, Arial, sans-serif;
+	border-radius: 3px;
+	padding: 10px 10px;
+	box-shadow: inset 0px 1px 0px rgb(197, 197, 197);
+	text-shadow: 0px 1px 1px rgb(40, 40, 40);
+	border-top: 1px solid rgb(40, 40, 40)
+}
+
+.inputButton {
+	width: 220px;
+	color: rgb(84, 83, 81);
+	text-align: left;
+	border: 1px solid rgb(84, 83, 81);
+	background: white;
+	font-family: Helvetica, Arial, sans-serif;
+	border-radius: 5px;
+	padding: 12px 10px;
+	padding-bottom: 12px;
+	box-shadow: inset 0px 3px 10px 0px rgb(206, 206, 206),
+	6px 6px 9px -5px rgb(61, 61, 61);
+	border-top: 1px solid rgb(84, 83, 81);
+}
+.holder {
+	display: inline-block;
+	margin-bottom: 15px;
+}
+
+.actionButton {
+	width: 159px;
+	color: white;
+	text-align: center;
+	border: 1px solid rgb(166, 125, 23);
+	background: linear-gradient(to bottom, #f4e19a 0%,#f4d04e 50%,#f6c401 100%);
+	font-family: Helvetica, Arial, sans-serif;
+	letter-spacing: 2px;
+	border-radius: 3px;
+	padding: 12px 10px;
+	box-shadow: inset 0px 3px 32px 1px rgb(228, 228, 50);
+	text-shadow: 0px 1px 1px rgb(40, 40, 40);
+	border-top: 1px solid rgba(241, 239, 232, 0.75);
+}
